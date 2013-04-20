@@ -1,0 +1,90 @@
+{
+	"friendlyVersion" : "VERSION",
+	"versionDefName" : "APP_RESOURCES",
+	"media" : [{
+			"type": "png",
+			"defName": "IMAGE_MENU_ICON",
+			"file": "images/menu_icon.png"
+        }, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_0",
+			"file" : "images/0.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_1",
+			"file" : "images/1.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_2",
+			"file" : "images/2.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_3",
+			"file" : "images/3.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_4",
+			"file" : "images/4.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_5",
+			"file" : "images/5.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_6",
+			"file" : "images/6.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_7",
+			"file" : "images/7.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_8",
+			"file" : "images/8.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_9",
+			"file" : "images/9.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_0",
+			"file" : "images/m0.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_1",
+			"file" : "images/m1.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_2",
+			"file" : "images/m2.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_3",
+			"file" : "images/m3.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_4",
+			"file" : "images/m4.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_5",
+			"file" : "images/m5.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_6",
+			"file" : "images/m6.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_7",
+			"file" : "images/m7.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_8",
+			"file" : "images/m8.png"
+		}, {
+			"type" : "png-trans",
+			"defName" : "IMAGE_MIRROR_9",
+			"file" : "images/m9.png"
+		}
+	]
+}
