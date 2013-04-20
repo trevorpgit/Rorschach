@@ -5,3 +5,9 @@ Design inspired by the [Rorschach 2 e-paper watch watch from TokyoFlash](http://
 The hours are found in the top right, and the minutes are found in the bottom left. The other quadrants are reflections of these.
 
 Supports 12/24hr displays. Slide in animation has been turned off because they look clunky when using transparent images.
+
+Here's a preview:
+
+![Screen shot](/trevorpgit/Rorschach/raw/master/ScreenShot.png)
+
+Pebble watch design from [My Pebble Faces](http://www.mypebblefaces.com/)
