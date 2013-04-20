@@ -8,6 +8,6 @@ Supports 12/24hr displays. Slide in animation has been turned off because they l
 
 Here's a preview:
 
-![Screen shot](/trevorpgit/Rorschach/raw/master/ScreenShot.png)
+![Screen shot](ScreenShot.png)
 
 Pebble watch design from [My Pebble Faces](http://www.mypebblefaces.com/)
